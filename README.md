@@ -1,4 +1,4 @@
 FoverJS
 =======
 
-Event Driving Function
+Functional State Machine Programing
